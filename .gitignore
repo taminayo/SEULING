@@ -4,3 +4,4 @@ include/
 .Python
 bin/
 test.py
+__Pycache__/
