@@ -1,0 +1,6 @@
+.DS_Store
+lib/
+include/
+.Python
+bin/
+test.py
