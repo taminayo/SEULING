@@ -1,6 +1,10 @@
+import sys
+sys.path.insert(0, './site-packages')
+
 from result import Result
 import requests
 import csv
+print(requests)
 
 with open('raw.csv', 'r') as raw:
 	csv_reader = csv.DictReader(raw)
