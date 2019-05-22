@@ -14,19 +14,3 @@
 이후 **app.py**를 실행하면 'edited.csv' 라는 이름으로 조회가 끝난 새 .csv 파일이 생성됩니다.
 
 조회할 대상이 많을 경우 시간이 다소 소요될 수 있습니다.
-
-
-## 필요사항
-python version 3.5.2
-
-requirements.txt
-
-
-## 패키지 설치법
-파이썬 패키지 관리자(ex. pip)를 설치하여 requirements.txt 설치.
-
-예시)
-
-```
-pip install -r requirements.txt
-```
